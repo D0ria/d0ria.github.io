@@ -3256,7 +3256,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+			background-image: linear-gradient(to bottom, #0e97cb 0%, #ff0844 100%);
 		}
 
 		.wrapper.style3-alt {
